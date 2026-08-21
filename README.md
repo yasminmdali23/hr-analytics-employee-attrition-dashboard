@@ -17,4 +17,4 @@ An interactive human resources dashboard designed to visualize workforce demogra
 * **Skills:** Human Resources Analytics, Workforce Retention Analysis, People Analytics, Data Visualization
 
 ---
-
+![Dashboard View](Screenshot%202026-08-10%20050729.png)
